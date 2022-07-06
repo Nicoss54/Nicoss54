@@ -4,7 +4,7 @@ Hi 👋 My name is Nicolas
 Architect Web
 -------------
 
-icolas Frizzarin is a FrontEnd Developer and User Interface Designer from Metz, France. He is a Developer Advocate for SFEIR Luxembourg and help team to create great web application since 6 years.
+Nicolas Frizzarin is a FrontEnd Developer and User Interface Designer from Metz, France. He is a Developer Advocate for SFEIR Luxembourg and help team to create great web application since 6 years.
 
 Passionate about web technologies, Nicolas is a Google Developer Expert and an OpenJs Foundation Member who loves sharing his knowledges through speaking to conference, writting article or giving training.
 
