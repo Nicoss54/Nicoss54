@@ -4,7 +4,9 @@ Hi 👋 My name is Nicolas
 Architect Web
 -------------
 
-I'm a web architect for SFEIR and a passionate of web technologies. Every day i looksover the web world to discover the tomorrow technologies. I am also an OpenJs Foundation Member, speaker and Open source contributor. I love sharing my knowledges through trainings, articles and conferences.
+icolas Frizzarin is a FrontEnd Developer and User Interface Designer from Metz, France. He is a Developer Advocate for SFEIR Luxembourg and help team to create great web application since 6 years.
+
+Passionate about web technologies, Nicolas is a Google Developer Expert and an OpenJs Foundation Member who loves sharing his knowledges through speaking to conference, writting article or giving training.
 
 * 🌍  I'm based in Metz
 * 🧠  I'm learning Web 3 and Js new Technologies
