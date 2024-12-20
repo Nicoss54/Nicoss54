@@ -4,9 +4,9 @@ Hi 👋 My name is Nicolas
 Developer Advocate
 -------------
 
-Nicolas Frizzarin is a FrontEnd Developer and User Interface Designer from Metz, France. He is a Developer Advocate for SFEIR Luxembourg and help team to create great web application since 6 years.
+Google Developer Expert in Web Technologies and Angular, also a Microsoft Most Valuable Professional, Nicolas is a French FontEnd specialist and User Interface Designer from Metz, France.
 
-Passionate about web technologies, Nicolas is a Google Developer Expert and an OpenJs Foundation Member who loves sharing his knowledges through speaking to conference, writting article or giving training.
+He works as a Developer Advocate and Senior Staff Engineer at Sfeir Luxembourg. Besides that, Nicolas is a speaker, and likes to contribute to the community by giving talks, trainings, writing articles or participating in open source projects like Ng Zorro
 
 * 🌍  I'm based in Metz
 * 🧠  I'm learning Web 3 and Js new Technologies
